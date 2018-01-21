@@ -3,7 +3,7 @@
     {
       "name": "padiiotstamp",
       "maintainer": "george.talusan@gmail.com",
-      "websiteURL": "https://www.github.com/gtalusan/PADIIoTStamp",
+      "websiteURL": "https://www.github.com/wanleung/PADIIoTStamp",
       "email": "george.talusan@gmail.com",
       "platforms": [
         {
@@ -12,9 +12,9 @@
           "version": "0.0.4",
           "category": "Contributed",
           "help": {
-            "online": "http://www.github.com/gtalusan/PADIIoTStamp/"
+            "online": "http://www.github.com/wanleung/PADIIoTStamp/"
           },
-          "url": "https://github.com/gtalusan/PADIIoTStamp/raw/master/release/padiiotstamp-0.0.4.tar.gz",
+          "url": "https://github.com/wanleung/PADIIoTStamp/raw/master/release/padiiotstamp-0.0.4.tar.gz",
           "archiveFileName": "padiiotstamp-0.0.4.tar.gz",
           "checksum": "SHA-256:50afdb760d332420ccff298bb04c82c56aff7b35849de74c4be972dc68b152c6",
           "size": "793",
@@ -48,28 +48,28 @@
             {
               "host": "i686-mingw32",
               "archiveFileName": "openocd_tools-0.0.1.tar.gz",
-              "url": "https://github.com/gtalusan/PADIIoTStamp/raw/master/release/openocd_tools-0.0.1.tar.gz",
+              "url": "https://github.com/wanleung/PADIIoTStamp/raw/master/release/openocd_tools-0.0.1.tar.gz",
               "checksum": "SHA-256:69b05f075118c39f26281e15055ae0d0cd64b188daeca724386bf9fb7dcaf3e7",
               "size": "11572"
             },
             {
               "host": "x86_64-apple-darwin",
               "archiveFileName": "openocd_tools-0.0.1.tar.gz",
-              "url": "https://github.com/gtalusan/PADIIoTStamp/raw/master/release/openocd_tools-0.0.1.tar.gz",
+              "url": "https://github.com/wanleung/PADIIoTStamp/raw/master/release/openocd_tools-0.0.1.tar.gz",
               "checksum": "SHA-256:69b05f075118c39f26281e15055ae0d0cd64b188daeca724386bf9fb7dcaf3e7",
               "size": "11572"
             },
             {
               "host": "x86_64-pc-linux-gnu",
               "archiveFileName": "openocd_tools-0.0.1.tar.gz",
-              "url": "https://github.com/gtalusan/PADIIoTStamp/raw/master/release/openocd_tools-0.0.1.tar.gz",
+              "url": "https://github.com/wanleung/PADIIoTStamp/raw/master/release/openocd_tools-0.0.1.tar.gz",
               "checksum": "SHA-256:69b05f075118c39f26281e15055ae0d0cd64b188daeca724386bf9fb7dcaf3e7",
               "size": "11572"
             },
             {
               "host": "i686-pc-linux-gnu",
               "archiveFileName": "openocd_tools-0.0.1.tar.gz",
-              "url": "https://github.com/gtalusan/PADIIoTStamp/raw/master/release/openocd_tools-0.0.1.tar.gz",
+              "url": "https://github.com/wanleung/PADIIoTStamp/raw/master/release/openocd_tools-0.0.1.tar.gz",
               "checksum": "SHA-256:69b05f075118c39f26281e15055ae0d0cd64b188daeca724386bf9fb7dcaf3e7",
               "size": "11572"
             }
